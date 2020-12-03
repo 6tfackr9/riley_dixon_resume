@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: R Dixon's Resume
+title: Riley Dixon's Resume
 ---
 # Riley Dixon
 Student at BYU-Idaho studying computer science.
@@ -16,12 +16,12 @@ Student at BYU-Idaho studying computer science.
 
 ## Education
 
-`2025-2027`
+`2025-2020`
 __LDS Business College__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2020`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
